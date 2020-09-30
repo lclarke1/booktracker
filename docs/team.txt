@@ -1,7 +1,5 @@
 jahmar jchristiangayle
-<<<<<<< HEAD
 mackbar altaafackbar
-=======
 svtruong TheStruong
 cheming Mimi82n2
->>>>>>> 3a37b1bc14ab33dd696fa9e0049f046826a70761
+
